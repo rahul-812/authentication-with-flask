@@ -8,7 +8,7 @@ A flutter app that connects to python flask server which is hosted on localhost 
 
 I have tried to code `FlaskbaseAuth` class [here](/lib/flaskbase_auth/flaskbase_auth.dart) like `firebase_auth` package has `FirebaseAuth` for firebase authenctication.
 
-See [documentation](https://firebase.flutter.dev/docs/auth/usage/).
+See [documentation](https://firebase.flutter.dev/docs/auth/usage/#emailpassword-registration--sign-in).
 
 ## Screen records
 
