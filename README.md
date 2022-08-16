@@ -10,3 +10,4 @@ I have tried to code `FlaskbaseAuth` class like `firebase_auth` package has `Fir
 
 ## Screen records
 ![signupdemo](https://user-images.githubusercontent.com/85408038/184924613-a1e08adc-201f-4565-9ead-1d73b8c83bdb.gif)
+![logindemo](https://user-images.githubusercontent.com/85408038/184925043-5a9671c1-0499-4192-a82f-44093c2419e2.gif)
