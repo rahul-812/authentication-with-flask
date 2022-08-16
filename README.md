@@ -4,9 +4,11 @@ A new Flutter Demo App.
 
 ## Description
 
-A flutter app that connects to python flask server which is hosted on localhost `http://127.0.0.1:5000`. Used to authenticate user for this app.
+A flutter app that connects to python flask server which is hosted on localhost `http://127.0.0.1:5000` to authenticate user for this flutter app.
 
 I have tried to code `FlaskbaseAuth` class [here](/lib/flaskbase_auth/flaskbase_auth.dart) like `firebase_auth` package has `FirebaseAuth` for firebase authenctication.
+
+See [documentation](https://firebase.flutter.dev/docs/auth/usage/).
 
 ## Screen records
 
