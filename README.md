@@ -6,8 +6,18 @@ A new Flutter Demo App.
 
 A flutter app that connects to python flask server which is hosted on localhost [http://127.0.0.1:5000]. Used to authenticate user for this app.
 
-I have tried to code `FlaskbaseAuth` class like `firebase_auth` package has `FirebaseAuth` for firebase authenctication.
+I have tried to code `FlaskbaseAuth` class [here](/lib/flaskbase_auth/flaskbase_auth.dart) like `firebase_auth` package has `FirebaseAuth` for firebase authenctication.
 
 ## Screen records
+
+**Sign In Page**
+
 ![signupdemo](https://user-images.githubusercontent.com/85408038/184924613-a1e08adc-201f-4565-9ead-1d73b8c83bdb.gif)
+
+
+
+
+
+**Log In Page**
+
 ![logindemo](https://user-images.githubusercontent.com/85408038/184925043-5a9671c1-0499-4192-a82f-44093c2419e2.gif)
